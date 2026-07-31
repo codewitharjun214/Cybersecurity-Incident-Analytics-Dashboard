@@ -201,7 +201,7 @@ https://www.linkedin.com/in/kadamarjun214/
 https://github.com/codewitharjun214
 
 🌐 Portfolio:
-https://arjunpersonal.netlify.app/
+https://kadamarjun.netlify.app/
 
 ---
 
