@@ -1,3 +1,5 @@
+<img width="1322" height="745" alt="image" src="https://github.com/user-attachments/assets/1e9562c0-f90f-4355-abf9-12e15f7b977b" />
+
 # 🛡️ Cybersecurity Threat Intelligence & Incident Analytics Dashboard
 
 An end-to-end **Data Analytics Project** that analyzes global cybersecurity threats from **2015–2024** using **Python, SQL, and Power BI**. This project demonstrates the complete analytics workflow including **data cleaning, exploratory data analysis (EDA), SQL analysis, DAX calculations, and interactive dashboard creation**.
